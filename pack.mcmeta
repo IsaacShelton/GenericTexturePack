@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 3,
+		"description": "Generic Texture Pack"
+	},
+	"language": {
+		"en_ge": {
+			"name" : "Generic English",
+			"region" : "English",
+			"bidirectional" : false
+		}
+	}
+}
